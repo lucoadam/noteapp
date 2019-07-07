@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "183087575044",
+    "firebase_url": "https://tuesday-90e41.firebaseio.com",
+    "project_id": "tuesday-90e41",
+    "storage_bucket": "tuesday-90e41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183087575044:android:289689efb456fab1",
+        "android_client_info": {
+          "package_name": "com.example.tuesday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183087575044-8g8fpbb7h71eo22q1a90pi20uejh1ol1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tuesday",
+            "certificate_hash": "a78fd796c261cb315696093017a8d74878946ad3"
+          }
+        },
+        {
+          "client_id": "183087575044-7uuq0kvt40otvkbdqnl23o7g91264a3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUvpGf_ftUUCmPLze7Bbt2W4umNiuvbyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183087575044-7uuq0kvt40otvkbdqnl23o7g91264a3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
