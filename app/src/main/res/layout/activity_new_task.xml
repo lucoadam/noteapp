@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#F4F4F4"
-    tools:context=".MainActivity"
+    tools:context=".NewTaskAct"
     android:orientation="vertical">
 
     <LinearLayout
@@ -26,11 +26,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 
-        <view
-            android:layout_marginTop="28dp"
-            android:layout_width="match_parent"
-            android:background="#131E69"
-            android:layout_height="1dp"/>
+        <!--<view-->
+            <!--android:layout_marginTop="28dp"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:background="#131E69"-->
+            <!--android:layout_height="1dp"/>-->
     </LinearLayout>
     <LinearLayout
         android:background="@drawable/bgitemdoes"

@@ -70,23 +70,23 @@ public class NewTaskAct extends AppCompatActivity {
                 });
             }
         });
-        //import font
-        Typeface MLight = Typeface.createFromAsset(getAssets(),"fonts/ML.ttf");
-        Typeface MMedium = Typeface.createFromAsset(getAssets(),"fonts/MM,ttf");
-
-        //customize font
-        titlepage.setTypeface(MMedium);
-
-        addtitle.setTypeface(MLight);
-        titleDoes.setTypeface(MMedium);
-
-        adddesc.setTypeface(MLight);
-        descdoes.setTypeface(MMedium);
-
-        adddate.setTypeface(MLight);
-        datedoes.setTypeface(MMedium);
-
-        btnSaveTask.setTypeface(MMedium);
-        btnCancel.setTypeface(MLight);
+//        //import font
+//        Typeface MLight = Typeface.createFromAsset(getAssets(),"fonts/ML.ttf");
+//        Typeface MMedium = Typeface.createFromAsset(getAssets(),"fonts/MM,ttf");
+//
+//        //customize font
+//        titlepage.setTypeface(MMedium);
+//
+//        addtitle.setTypeface(MLight);
+//        titleDoes.setTypeface(MMedium);
+//
+//        adddesc.setTypeface(MLight);
+//        descdoes.setTypeface(MMedium);
+//
+//        adddate.setTypeface(MLight);
+//        datedoes.setTypeface(MMedium);
+//
+//        btnSaveTask.setTypeface(MMedium);
+//        btnCancel.setTypeface(MLight);
     }
 }
